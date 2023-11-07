@@ -1,1 +1,3 @@
-# Practice_EFCore_MongoDb
+# Изучение работы с MongoDB в EFCore
+
+
